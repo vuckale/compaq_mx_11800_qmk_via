@@ -1,5 +1,7 @@
 # compaq-mx-11800
 
+![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/overview.png?raw=true)
+
 ![compaq-mx-11800](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
