@@ -36,7 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COL_PINS { F7, F6, F5, F4, F3, F2, F1, F0, E6, E7, B0, B1, B2, B3, B4, B5 }
 #define UNUSED_PINS { B6, D6, D4, D3, D1, D0, A7, A6, A5, A4, A4, A2, A1, A0, E4, E3}
 
-#def                                                     ine LED_SCROLL_LOCK_PIN E1
+#define LED_SCROLL_LOCK_PIN E1
 #define LED_CAPS_LOCK_PIN E0
 #define LED_NUM_LOCK_PIN D7
 
@@ -58,8 +58,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define BOOTMAGIC_LITE_ROW 0
 #define BOOTMAGIC_LITE_COLUMN 13
 
+
 #define PS2_MOUSE_USE_2_1_SCALING
 
+#define PS2_MOUSE_X_MULTIPLIER 4
+#define PS2_MOUSE_Y_MULTIPLIER 4
+#define PS2_MOUSE_V_MULTIPLIER 2
+
+#define PS2_MOUSE_SCROLL_DIVISOR_H 4
+#define PS2_MOUSE_SCROLL_DIVISOR_V 4
 
 #ifdef PS2_USE_USART
 #    define PS2_CLOCK_PORT PORTD
