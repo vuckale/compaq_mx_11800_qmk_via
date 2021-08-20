@@ -3,6 +3,7 @@
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/overview.png?raw=true)
 
 <!--*A short description of the keyboard/project*-->
+Teensy++ 2.0 as MCU running QMK with VIA support
 
 * Keyboard Maintainer: [vuckale](https://github.com/yourusername)
 <!--* Hardware Supported: *The PCBs, controllers supported*-->
