@@ -19,6 +19,9 @@ I replaced Motorola XC409410P MCU in it with a Teensy++ 2.0, allowing me to flas
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/col-row-wiring.png?raw=true)
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/wiring-photo.png?raw=true)
 
+# Key Matrix
+![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/matrix.png?raw=true)
+
 # Trackball Wiring
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/trackball-wiring.png?raw=true)
 
