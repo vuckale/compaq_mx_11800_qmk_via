@@ -1,7 +1,7 @@
 # Compaq MX 11800 - QMK and VIA support
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/overview.png?raw=true)
 
-Compaq MX 11800 AKA Cherry G80 11800, a mechanical keyboard with cherry MX brown switches with trackball. Due to it's compact layout it was commonly used as a server rack/mount keyboard. Although there was a variant with windows keys, the model I used is winkeyless.
+Compaq MX 11800 AKA Cherry G80 11800, a mechanical keyboard with cherry MX brown switches with trackball. Due to it's compact layout it was commonly used as a server/rack mount keyboard. Although there was a variant with windows keys, the model I used is winkeyless.
 
 I replaced Motorola XC409410P MCU in it with a Teensy++ 2.0, allowing me to flash QMK and VIA firmware.
 
@@ -15,8 +15,9 @@ I replaced Motorola XC409410P MCU in it with a Teensy++ 2.0, allowing me to flas
 * speaker
 
 # PCB Wiring
-** The PCB is upside down. You can orientate yourself by looking at LP4 and LP5 pins on the PCB.
+&ast; The PCB is upside down. You can orientate yourself by looking at LP4 and LP5 pins on the PCB.
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/col-row-wiring.png?raw=true)
+![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/wiring-photo.png?raw=true)
 
 # Trackball Wiring
 ![compaq-mx-11800](https://github.com/vuckale/compaq-mx-11800-qmk-via/blob/main/docs/trackball-wiring.png?raw=true)
