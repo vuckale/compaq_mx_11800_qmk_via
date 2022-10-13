@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Compaq Computer Comporation
 #define PRODUCT         Compaq MX 11800
-#define DESCRIPTION     Server Rack Keyboard
 
 #define CORE_TEENSY
 
@@ -34,7 +33,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define MATRIX_ROW_PINS { C0, C1, C2, C3, C4, C5, C6, C7 }
 #define MATRIX_COL_PINS { F7, F6, F5, F4, F3, F2, F1, F0, E6, E7, B0, B1, B2, B3, B4, B5 }
-#define UNUSED_PINS { B6, D6, D4, D3, D1, D0, A7, A6, A5, A4, A4, A2, A1, A0, E4, E3}
 
 #define LED_SCROLL_LOCK_PIN E1
 #define LED_CAPS_LOCK_PIN E0
