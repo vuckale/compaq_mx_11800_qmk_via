@@ -22,12 +22,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_ROWS 7
 #define MATRIX_COLS 17
 #define DIODE_DIRECTION COL2ROW
-#define ROW_PINS { A0, A1, B0, B1, B10, B12, B13 }
+#define ROW_PINS { A2, A3, B0, B1, B10, B12, B13 }
 #define COL_PINS { NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, NO_PIN, B9 }
 
 // *** PS2 Mouse ***
-# define PS2_CLOCK_PIN   A2
-# define PS2_DATA_PIN    A3
+# define PS2_CLOCK_PIN   A0
+# define PS2_DATA_PIN    A1
 #define PS2_MOUSE_USE_REMOTE_MODE 
 #define PS2_MOUSE_DEBUG_HID
 #define PS2_MOUSE_DEBUG_RAW
